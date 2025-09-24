@@ -1,0 +1,1 @@
+export const BOX_SCHEDULE={1:0,2:1,3:3,4:7,5:14};export function nextReviewDate(box){const d=new Date();d.setDate(d.getDate()+(BOX_SCHEDULE[box]??14));return d.toISOString().slice(0,10)}export function updateBox(correct,box){return correct?Math.min((box||1)+1,5):Math.max((box||1)-1,1)}

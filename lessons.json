@@ -1,0 +1,183 @@
+{
+  "order": [
+    "day1_pronouns",
+    "day2_objects",
+    "day3_tenses",
+    "day4_articles",
+    "day5_adj_adv",
+    "day6_relatives"
+  ],
+  "lessons": {
+    "day1_pronouns": {
+      "title": "Day 1 - 대명사",
+      "concept": "I, you, he, she, it, we, they / 격 변화 개요",
+      "examples": [
+        [
+          "생활",
+          "I am hungry.",
+          "나 배고파."
+        ],
+        [
+          "토익",
+          "They will send us the invoice.",
+          "그들은 우리에게 청구서를 보낼 것이다."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "____ am a new employee. (I/Me)",
+          "options": [
+            "I",
+            "Me"
+          ],
+          "answer": "I",
+          "explain": "주어=주격"
+        },
+        {
+          "q": "The manager gave ____ a task. (we/us)",
+          "options": [
+            "we",
+            "us"
+          ],
+          "answer": "us",
+          "explain": "목적격"
+        }
+      ]
+    },
+    "day2_objects": {
+      "title": "Day 2 - 목적어",
+      "concept": "직접/간접/목적보어",
+      "examples": [
+        [
+          "생활",
+          "I drink water.",
+          "나는 물을 마신다."
+        ],
+        [
+          "토익",
+          "The company offered me a position.",
+          "회사가 내게 직책을 제안했다."
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "She sent ____ an email. (he/him)",
+          "options": [
+            "he",
+            "him"
+          ],
+          "answer": "him",
+          "explain": "목적격"
+        }
+      ]
+    },
+    "day3_tenses": {
+      "title": "Day 3 - 시제 기초",
+      "concept": "현재/과거/미래",
+      "examples": [
+        [
+          "생활",
+          "I work on weekdays.",
+          "나는 평일에 일한다."
+        ],
+        [
+          "토익",
+          "The meeting will start at 3 p.m.",
+          "회의 3시에 시작"
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "He ____ to work yesterday. (go/went)",
+          "options": [
+            "go",
+            "went"
+          ],
+          "answer": "went",
+          "explain": "yesterday"
+        }
+      ]
+    },
+    "day4_articles": {
+      "title": "Day 4 - 관사",
+      "concept": "a/an, the",
+      "examples": [
+        [
+          "생활",
+          "I saw a dog.",
+          "개 한 마리를 봤다."
+        ],
+        [
+          "토익",
+          "Please submit the report by Friday.",
+          "보고서를 금요일까지 제출"
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "I bought ____ umbrella. (a/the)",
+          "options": [
+            "a",
+            "the"
+          ],
+          "answer": "a",
+          "explain": "처음 언급"
+        }
+      ]
+    },
+    "day5_adj_adv": {
+      "title": "Day 5 - 형용사/부사",
+      "concept": "형용사/부사 구분",
+      "examples": [
+        [
+          "생활",
+          "She is a careful driver.",
+          "신중한 운전자"
+        ],
+        [
+          "토익",
+          "The device operates efficiently.",
+          "효율적으로 작동"
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "He arrived _____. (late/lately)",
+          "options": [
+            "late",
+            "lately"
+          ],
+          "answer": "late",
+          "explain": "arrive-late"
+        }
+      ]
+    },
+    "day6_relatives": {
+      "title": "Day 6 - 관계사",
+      "concept": "who/which/that",
+      "examples": [
+        [
+          "생활",
+          "The man who lives next door is kind.",
+          "옆집 남자 친절"
+        ],
+        [
+          "토익",
+          "The report that you submitted was excellent.",
+          "제출한 보고서 훌륭"
+        ]
+      ],
+      "quiz": [
+        {
+          "q": "The employee ____ won the award is from Sales. (who/which)",
+          "options": [
+            "who",
+            "which"
+          ],
+          "answer": "who",
+          "explain": "사람→who"
+        }
+      ]
+    }
+  }
+}
